@@ -1,4 +1,5 @@
-### Hi 👋 I'm Eric Gullufsen, a developer at the Legal Information Institute
+### Hi 👋 I'm Eric Gullufsen 
+I am a developer at the [Legal Information Institute](https://law.cornell.edu)
 
 <!--
 **emgullufsen-lii/emgullufsen-lii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
