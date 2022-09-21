@@ -1,4 +1,4 @@
-### Hi 👋 I'm Eric Gullufsen 
+### Hi 👋 I'm Eric Gullufsen [homepage - some guides](https://emgullufsen-lii.github.io/)
 I am a developer at the [Legal Information Institute](https://law.cornell.edu)
 
 <!--
